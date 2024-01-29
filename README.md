@@ -13,9 +13,9 @@ The application was developed and provided by the [Rocketseat](https://www.rocke
 ## **Screenshots**
 
 <div>
-<img src="./md-assets/home.png" width="180" />
-<img src="./md-assets/statistics.png" width="180" />
-<img src="./md-assets/meal-registered-in-diet.png" width="180" />
+<img src="./.assets/screen-1.png" width="180" />
+<img src="./.assets/screen-2.png" width="180" />
+<img src="./.assets/screen-3.png" width="180" />
 </div>
 
 ## **Prerequisites**
