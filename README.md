@@ -1,6 +1,6 @@
 # **Daily diet**
 
-![Logo do Aplicativo](md-assets/daily-diet-banner.jpg)
+![iweather-banner](https://github.com/leandrodsi/iweather/assets/38085899/4060104a-a80c-42f8-9a32-25ab7d539c9d)
 
 ## **Description**
 
@@ -13,9 +13,9 @@ The application was developed and provided by the [Rocketseat](https://www.rocke
 ## **Screenshots**
 
 <div>
-<img src="./md-assets/home.png" width="180" />
-<img src="./md-assets/statistics.png" width="180" />
-<img src="./md-assets/meal-registered-in-diet.png" width="180" />
+![screen-1](https://github.com/leandrodsi/iweather/assets/38085899/40aca254-0d89-4307-b036-6dd36eb47c14)
+![screen-2](https://github.com/leandrodsi/iweather/assets/38085899/243da36f-a2ce-4d67-9a76-394a320d6761)
+![screen-3](https://github.com/leandrodsi/iweather/assets/38085899/708f4e95-033c-416a-9da3-69a33cbee135)
 </div>
 
 ## **Prerequisites**
