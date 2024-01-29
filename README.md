@@ -1,6 +1,6 @@
 # **Daily diet**
 
-![Logo do Aplicativo](md-assets/daily-diet-banner.jpg)
+![iweather-banner](https://github.com/leandrodsi/iweather/assets/38085899/4060104a-a80c-42f8-9a32-25ab7d539c9d)
 
 ## **Description**
 
