@@ -4,10 +4,6 @@
 
 ## **Description**
 
-This application was developed during the [Ignite course](https://www.rocketseat.com.br/ignite).
-The application was created using Expo, and CSS-in-JS (styled-components) was used for component styling. <br /><br />
-The application is a meal tracker that enables users to register their daily meals and indicate whether each meal is within or outside their dietary plan. It also provides statistics and insights on the overall diet, giving users an overview of their eating habits.<br />
-
 The application was developed and provided by the [Rocketseat](https://www.rocketseat.com.br) team to serve as a learning environment for studying and implementing automated tests using Jest and React Native Testing Library. <br/><br/> The app's purpose is to enable users to search for a city and view current weather information, including details like wind speed, humidity, etc., along with the forecasted minimum and maximum temperatures for the next 5 days. <br /><br />The original application can be found in the repository [iWeather](https://github.com/rocketseat-education/iweather).
 
 ## **Screenshots**
