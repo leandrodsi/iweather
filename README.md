@@ -4,7 +4,7 @@
 
 ## **Description**
 
-This application was developed and of [course Ignite](https://www.rocketseat.com.br/ignite).
+This application was developed during the [Ignite course](https://www.rocketseat.com.br/ignite).
 The application was created using Expo, and CSS-in-JS (styled-components) was used for component styling. <br /><br />
 The application is a meal tracker that enables users to register their daily meals and indicate whether each meal is within or outside their dietary plan. It also provides statistics and insights on the overall diet, giving users an overview of their eating habits.<br />
 
